@@ -12,3 +12,11 @@ print(mul)
 
 div = num1 / num2
 print(int(div))
+
+rem = (10 % 3)
+print(rem)
+
+power = (5 ** 2)
+print(power)
+
+# comparision operators
