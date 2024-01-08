@@ -19,4 +19,13 @@ print(rem)
 power = (5 ** 2)
 print(power)
 
-# comparision operators
+# comparison operators
+print(3 <= 3)
+print(3 != 2)
+
+# logical operators
+print(3 < 2 or 5 < 4)
+print(2 < 3 or 5 < 4)
+
+print(3 < 4 and 5 < 4)
+print(3 < 4 or 5 < 6)
