@@ -13,3 +13,9 @@ number2 = int(number2)
 for i in range(number2):
     print(i)
     print(i + 1)
+
+print("new update")
+
+x = range(5, 20, 3)
+for i in x:
+    print(i)
