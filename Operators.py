@@ -33,3 +33,10 @@ print(3 < 4 or 5 < 6)
 # membership operators
 list1 = [1,2,3,4,5]
 print(1 in list1)
+
+# bitwise operators
+x = 10 #1010
+y = 5 #0101
+
+print(x | y)
+print(x & y)
