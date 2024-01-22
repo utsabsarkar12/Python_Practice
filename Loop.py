@@ -19,3 +19,7 @@ print("new update")
 x = range(5, 20, 3)
 for i in x:
     print(i)
+
+data = "I love data science"
+for x in range(len(data)):
+    print(data[x])
